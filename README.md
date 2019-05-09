@@ -29,4 +29,4 @@ See main.cpp for complete example.
 
 # Contribute
 Feel free to contribute.
-- [Github C++ timer](https://github.com/CMHAS/FreeToTime)
+- [Github C++ timer](https://github.com/CMHAS/Timer)
