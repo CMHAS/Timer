@@ -30,4 +30,18 @@
 *.exe
 *.out
 *.app
+
+# User files
+*.user
+
 /.vs/Timer/v16/Preview
+/x64
+/Release
+/Debug
+/.vs/Timer/v16
+/TimerTest/x64
+/TimerTest/Release
+/TimerTest/Debug
+/TimerMain/x64
+/TimerMain/Release
+/TimerMain/Debug
